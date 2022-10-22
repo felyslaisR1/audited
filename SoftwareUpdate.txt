@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
