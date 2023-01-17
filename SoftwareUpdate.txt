@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Explorer with LanceDB, Actions and Docs updates (#7487)
