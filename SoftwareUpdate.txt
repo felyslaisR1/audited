@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+New test for labels and crops (#8861)
